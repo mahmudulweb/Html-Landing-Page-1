@@ -52,7 +52,7 @@
 
   <hr>
 
-  <p><strong>Developed By:</strong>Mahmudul</p>
+  <p><strong>Developed By:</strong> Mahmudul</p>
     <p><strong>Client Project for:</strong> Fiverr</p>
     <p><strong>Status:</strong> Completed</p>
 </body>
